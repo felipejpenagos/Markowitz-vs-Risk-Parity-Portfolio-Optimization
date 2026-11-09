@@ -11,7 +11,7 @@
 
 **F. J. Penagos** · Duke University, Pratt School of Engineering · May 2026
 
-<img src="fig_3d_sharpe_surface.png" width="62%" alt="MVO, ERC, and RC-MVO in risk–return–Sharpe space">
+<img src="fig_cml.png" width="70%" alt="Mean-variance efficient frontier and capital market line">
 
 **[Read the paper (PDF, 15 pages)](MPT_Alternatives_Research.pdf)**
 
